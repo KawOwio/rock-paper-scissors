@@ -1,0 +1,1 @@
+A simple rock paper scissors game written on JS for learning purposes.
