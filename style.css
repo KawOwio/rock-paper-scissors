@@ -1,0 +1,15 @@
+.score-screen
+{
+    position: flex;
+    width: 50%;
+}
+
+.player-score
+{
+    float: left;
+}
+
+.cpu-score
+{
+    justify-content: right;
+}
